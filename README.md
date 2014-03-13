@@ -1,0 +1,4 @@
+hung
+====
+
+Automatic Hungarian conjugations
